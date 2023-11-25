@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+.a {
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.7;
+}
+
+.b {
+    position: fixed;
+    height: 100%;
+}
+
+.c {
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.7;
+}
+
+.d {
+    position: fixed;
+    height: 100%;
+}
+
+#a1 {
+    font-family: 'Great Vibes', cursive;
+    color: blueviolet;
+    font-size: 50px;
+    text-shadow: 1px 3px 2px blue;
+    margin: 10px;
+}
+
+#a2 {
+    color: plum;
+    text-shadow: 1px 3px 2px chartreuse;
+    font-size: 18px;
+    margin: 10px;
+}
+
+#a2:hover {
+    color: indigo;
+}
+
+#a3 {
+    color: blue;
+    text-shadow: 1px 3px 2px gold;
+    font-size: 18px;
+    margin: 10px;
+}
+
+#a3:hover {
+    color: skyblue;
+}
+
+#a4 {
+    color: forestgreen;
+    text-shadow: 1px 3px 2px turquoise;
+    font-size: 18px;
+    margin: 10px;
+}
+
+#a4:hover {
+    color: chartreuse;
+}
+
+#unique2 {
+    text-align: center;
+    background-color:gold;
+    color:blue;
+    border: 3px groove red;
+}
+
+#unique {
+    color: orange;
+}
+
+#unique:hover {
+    color: cyan;
+}
+
+#nav-item{
+display:inline;
+}
+
+#b1{
+text-align:center;
+color:lawngreen;
+background-color:brown;
+border:3px groove mediumspringgreen;
+word-spacing:5px;
+}
+#b2{
+font-size:larger;
+}
+mark{
+color:aqua;
+background-color:blueviolet;
+}
+h3{
+color:purple;
+background-color:deepskyblue;
+text-align:center;
+border:3px groove red;
+}
+.unique{
+color:blue;
+background-color:springgreen;
+border:3px groove orange;
+outline:2px dotted yellow;
+text-align:center;
+}
+.col-md-1{
+margin:25px;
+background-color:rgba(255, 251, 0, 0.432);
+width:25pc;
+height:27pc;
+text-align:center;
+}
+.row{
+justify-content:center;
+}
+h1{
+color:blueviolet;
+background-color:springgreen;
+border:3px groove aquamarine;
+font-family: monospace;
+}
+#product{
+border-radius:50%;
+border:3px groove cyan;
+}
+button{
+color:indigo;
+background-color:coral;
+border:3px groove blue;
+}
+#unique3{
+color:cyan;
+font-size:17px;
+text-shadow: 2px 1px 1px forestgreen;
+}
+#help{
+color:red;
+background-color:chartreuse;
+text-align:center;
+border:3px groove coral;
+}
